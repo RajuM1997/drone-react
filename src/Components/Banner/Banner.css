@@ -1,0 +1,31 @@
+.slider {
+    width: 500px;
+    height: 500px;
+    margin: 0 auto;
+}
+
+/* .slider img {
+    min-width: 100%;
+    height: 300px;
+    object-fit: cover;
+} */
+
+.one {
+    background: rgb(158, 151, 151);
+}
+
+.two {
+    background: rgb(247, 24, 24);
+}
+
+.three {
+    background: rgb(241, 186, 57);
+}
+
+.four {
+    background: rgb(171, 245, 33);
+}
+
+.five {
+    background: rgb(74, 238, 24);
+}
